@@ -1,2 +1,2 @@
 # lanielpark-giscus
-giscus repository for lanielpark.com
+giscus repository for [lanielpark.com](https://lanielpark.com)
